@@ -1,7 +1,7 @@
 # CHALLENGE CONVERSOR DE MONEDAS
 Este proyecto es el primer challenge de la formación **Back End** con **Java y Spring Boot** de **ALURA LATAM**
 
-El desafío consta de un menú donde se le pregunta al usuario que escoga una de las opciones 
+El desafío consta de un menú donde se le pregunta al usuario que escoja una de las opciones 
 
 ![Menú](https://github.com/dcoti7/Challenge/assets/157064508/b44041a6-a41b-4013-92a9-deef4327b0f7)
 
