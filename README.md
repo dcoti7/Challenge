@@ -1,4 +1,6 @@
 # CHALLENGE CONVERSOR DE MONEDAS
+![Badge-Conversor](https://github.com/dcoti7/Challenge/assets/157064508/5c26e310-2d45-4179-9b89-b86ee613ad40)
+
 Este proyecto es el primer challenge de la formación **Back End** con **Java y Spring Boot** de **ALURA LATAM**
 
 El desafío consta de un menú donde se le pregunta al usuario que escoja una de las opciones 
